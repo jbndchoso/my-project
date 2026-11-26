@@ -1,6 +1,6 @@
 # IT Portfolio Website
 
-## 📌 Project Overview
+## Project Overview
 
 Welcome to my IT Portfolio Website! This project showcases my personal information, skills, background, and projects in the field of Information Technology.
 
@@ -8,7 +8,7 @@ The purpose of this website is to introduce myself, present my technical abiliti
 
 This portfolio was developed using basic web development technologies, including HTML, CSS, and JavaScript.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - To create a personal portfolio website that represents my background and identity.
 - To showcase my knowledge and skills in Information Technology.
@@ -16,14 +16,14 @@ This portfolio was developed using basic web development technologies, including
 - To organize and present personal information in a professional and accessible way.
 - To develop practical experience in website design and development.
 
-## 💻 Technologies Used
+## Technologies Used
 
 The following technologies were used to develop this project:
 
-### 1. HTML (HyperText Markup Language)
+### 1. HTML
 Used to create the structure and content of the website, including headings, paragraphs, sections, images, and navigation elements.
 
-### 2. CSS (Cascading Style Sheets)
+### 2. CSS
 Used to design and style the website, including colors, fonts, layouts, spacing, backgrounds, and overall appearance.
 
 ### 3. JavaScript
@@ -52,7 +52,7 @@ my-project/
     └── Project documentation
 ```
 
-## ✨ Website Features
+## Website Features
 
 The portfolio website is intended to present personal and academic information in an organized format.
 
@@ -65,7 +65,7 @@ Its features depend on the sections and functionality implemented in the website
 - Contact information
 - Interactive website elements
 
-## ⚙️ How to Run the Project
+## How to Run the Project
 
 Follow these steps to view the website on your computer:
 
@@ -76,13 +76,13 @@ Follow these steps to view the website on your computer:
 5. Double-click `index.html` to open it in your web browser.
 6. Explore the portfolio website.
 
-## 🌐 Deployment
+## Deployment
 
 This project is uploaded and maintained using GitHub.
 
 It can also be published online using **GitHub Pages**, allowing visitors to access the portfolio through a public website link.
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 Through this project, I gained practical experience in:
 
@@ -93,9 +93,9 @@ Through this project, I gained practical experience in:
 - Using Git and GitHub for version control and project hosting.
 - Publishing a website using GitHub Pages.
 
-## 👨‍💻 Developer Information
+## Developer Information
 
-**Name:** Joben
+**Name:** Joben Lasian Dichoso
 
 **Project:** IT Portfolio Website
 
