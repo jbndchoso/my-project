@@ -29,7 +29,7 @@ Used to design and style the website, including colors, fonts, layouts, spacing,
 ### 3. JavaScript
 Used to add interactive features and improve the functionality and user experience of the website.
 
-## 📂 Project Structure
+## Project Structure
 
 The project contains the following files:
 
