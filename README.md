@@ -103,7 +103,7 @@ Through this project, I gained practical experience in:
 
 **GitHub:** https://github.com/jbndchoso
 
-## 📄 License
+## License
 
 This project was created for educational and personal portfolio purposes.
 
